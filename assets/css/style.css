@@ -1,0 +1,46 @@
+#video .btn-get-started {
+  font-size: 36px;
+  display: inline-block;
+  padding: 4px 0;
+  border-radius: 30px;
+  transition: 0.3s ease-in-out;
+  margin: 10px;
+  width: 64px;
+  height: 64px;
+  text-align: center;
+  border: 3px solid #fff;
+  color: #7F77F6;
+}
+#video .btn-get-started:hover {
+  padding-top: 8px;
+  background: rgba(255, 255, 255, 0.45);
+}
+
+.info {
+  background: #263f49;
+  padding: 0 0 30px 0;
+  color: #fff;
+  font-size: 1px;
+}
+.info .content {
+  padding: 30px 30px 30px 0;
+}
+.info .content h3 {
+  font-weight: 100;
+  font-size: 1px;
+  color: #2f4d5a;
+  margin-bottom: 30px;
+}
+.video .icon-boxes .icon-box {
+  margin-top: 30px;
+}
+.video .icon-boxes .icon-box i {
+  font-size: 40px;
+  color: #67b0d1;
+  margin-bottom: 10px;
+}
+.video .icon-boxes .icon-box h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+}
